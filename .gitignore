@@ -1,0 +1,4 @@
+dataset/*
+jarvisenv/*
+*.pyc
+*.swp
