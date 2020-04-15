@@ -1,0 +1,6 @@
+opencv-python==4.2.0.34
+nltk==3.5
+numpy==1.18.2
+redis==3.4.1
+scikit-learn==0.22
+tensorflow-gpu==1.15.2
