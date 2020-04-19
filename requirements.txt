@@ -1,4 +1,4 @@
-django==2.2.12
+django==3.0.2
 nltk==3.5
 numpy==1.18.2
 opencv-python==4.2.0.34
