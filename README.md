@@ -16,6 +16,8 @@ Using NLTK to build jarvis.
 
 # Stage 3
   - Training the base model to have the ability to play chess with me
+  
   - First train the model with the available datasets on chess and its moves.
+  
   - Then using OpenCV watch the chess board and play chess realtime with me.
 
