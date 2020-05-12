@@ -6,15 +6,15 @@ Pre-requistits :
   - redis
 
 Using NLTK to build jarvis.
-# Stage 1:
+### Stage 1:
   - Get acquainted with NLTK
   - Process some text and check results
 
-# Stage 2:
+### Stage 2:
   - Design : how this bot is created
   - Submit Features
 
-# Stage 3
+### Stage 3
   - Training the base model to have the ability to play chess with me
   
   - First train the model with the available datasets on chess and its moves.
