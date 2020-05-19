@@ -6,13 +6,21 @@ Pre-requistits :
   - redis
 
 Using NLTK to build jarvis.
-### Stage 0:
+
+### Stage 0 ( Hands on ML with Scikit-Learn & Tensorflow ):
   - MNIST and Linear Regression
   - Linear SVM Classifier
   - Decision Trees
   - Ensemble Learning and Random Forests
   - Dimensionality Reduction
-  - 
+  - Artificial Neural Networks
+  - Training Deep Neural Nets
+  - Distributing Tensorflow
+  - CNN
+  - Recurrent Neural Networks
+  - AutoEncoder
+  - Reinforcement Learning
+  
 ### Stage 1:
   - Get acquainted with NLTK
   - Process some text and check results
