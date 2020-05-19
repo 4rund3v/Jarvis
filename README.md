@@ -6,6 +6,13 @@ Pre-requistits :
   - redis
 
 Using NLTK to build jarvis.
+### Stage 0:
+  - MNIST and Linear Regression
+  - Linear SVM Classifier
+  - Decision Trees
+  - Ensemble Learning and Random Forests
+  - Dimensionality Reduction
+  - 
 ### Stage 1:
   - Get acquainted with NLTK
   - Process some text and check results
