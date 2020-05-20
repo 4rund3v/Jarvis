@@ -8,10 +8,10 @@ Pre-requistits :
 Using NLTK to build jarvis.
 
 ### Stage 0 ( Hands on ML with Scikit-Learn & Tensorflow ):
-  - MNIST and Linear Regression
-  - Linear SVM Classifier
-  - Decision Trees
-  - Ensemble Learning and Random Forests
+  - [x] MNIST and Linear Regression
+  - [ ] Linear SVM Classifier
+  - [ ] Decision Trees
+  - [ ] Ensemble Learning and Random Forests
   - Dimensionality Reduction
   - Artificial Neural Networks
   - Training Deep Neural Nets
