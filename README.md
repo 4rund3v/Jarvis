@@ -22,12 +22,12 @@ Using NLTK to build jarvis.
   - [ ] Reinforcement Learning
   
 ### Stage 1:
-  - Get acquainted with NLTK
-  - Process some text and check results
+  - [ ] Get acquainted with NLTK
+  - [ ] Process some text and check results
 
 ### Stage 2:
-  - Design : how this bot is created
-  - Submit Features
+  - [ ] Design : how this bot is created
+  - [ ] Submit Features
 
 ### Stage 3
   - Training the base model to have the ability to play chess with me
