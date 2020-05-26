@@ -9,8 +9,8 @@ Using NLTK to build jarvis.
 
 ### Stage 0 ( Hands on ML with Scikit-Learn & Tensorflow ):
   - [x] MNIST and Linear Regression
-  - [ ] Linear SVM Classifier
-  - [ ] Decision Trees
+  - [x] Linear SVM Classifier
+  - [x] Decision Trees
   - [ ] Ensemble Learning and Random Forests
   - [ ] Dimensionality Reduction
   - [ ] Artificial Neural Networks
