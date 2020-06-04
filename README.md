@@ -1,9 +1,9 @@
 # Jarvis : The personal assistant that you deserve!
 Pre-requistits : 
-  - NLTK
-  - OpenCV
-  - Tensorflow 
-  - redis
+  - [ ] NLTK
+  - [ ] OpenCV
+  - [ ] Tensorflow 
+  - [ ] redis
 
 Using NLTK to build jarvis.
 
