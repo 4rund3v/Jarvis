@@ -1,7 +1,0 @@
-django==3.0.7
-nltk==3.5
-numpy==1.18.2
-opencv-python==4.2.0.34
-redis==3.4.1
-scikit-learn==0.22
-tensorflow-gpu==1.15.2
