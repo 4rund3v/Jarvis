@@ -19,7 +19,7 @@ Using NLTK to build jarvis.
   - [x] Ensemble Learning and Random Forests
   - [ ] Dimensionality Reduction
   - [ ] Artificial Neural Networks
-  - [ ] Training Deep Neural Nets
+  - [X] Training Deep Neural Nets
   - [ ] Distributing Tensorflow
   - [x] CNN
   - [ ] Recurrent Neural Networks
