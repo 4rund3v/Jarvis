@@ -21,7 +21,7 @@ Using NLTK to build jarvis.
   - [ ] Artificial Neural Networks
   - [ ] Training Deep Neural Nets
   - [ ] Distributing Tensorflow
-  - [ ] CNN
+  - [x] CNN
   - [ ] Recurrent Neural Networks
   - [ ] AutoEncoder
   - [ ] Reinforcement Learning
