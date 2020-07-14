@@ -26,7 +26,7 @@ Using NLTK to build jarvis.
   - [ ] Recurrent Neural Networks
   - [ ] AutoEncoder
   - [ ] Reinforcement Learning
-  - [ ] React Landing Page
+  - [x] React Landing Page
   
 ### Stage 1:
   - [ ] Get acquainted with NLTK
