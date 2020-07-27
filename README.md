@@ -6,7 +6,7 @@ potatocodes.in/Jarvis
 
 Pre-requistits : 
   - [ ] NLTK
-  - [ ] OpenCV
+  - [x] OpenCV
   - [x] Tensorflow
   - [x] Keras
   - [ ] redis
