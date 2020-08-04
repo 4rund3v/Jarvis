@@ -7,9 +7,9 @@ potatocodes.in/Jarvis
 Pre-requistits : 
   - [ ] NLTK
   - [x] OpenCV
-  - [x] Tensorflow
-  - [x] Keras
-  - [x] redis
+  - [ ] Tensorflow
+  - [ ] Keras
+  - [ ] redis
 
 Using NLTK to build jarvis.
 
