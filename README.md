@@ -24,7 +24,7 @@ Using NLTK to build jarvis.
   - [ ] Distributing Tensorflow
   - [x] CNN
   - [ ] Recurrent Neural Networks
-  - [ ] AutoEncoder
+  - [x] AutoEncoder
   - [ ] Reinforcement Learning
   - [x] React Landing Page
   
