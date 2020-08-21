@@ -8,7 +8,7 @@ Pre-requistits :
   - [ ] NLTK
   - [x] OpenCV
   - [x] Tensorflow
-  - [ ] Keras
+  - [X] Keras
   - [ ] redis
 
 Using NLTK to build jarvis.
