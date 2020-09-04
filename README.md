@@ -17,7 +17,7 @@ Using NLTK to build jarvis.
   - [x] MNIST and Linear Regression
   - [x] Linear SVM Classifier
   - [x] Decision Trees
-  - [x] Ensemble Learning and Random Forests
+  - [ ] Ensemble Learning and Random Forests
   - [ ] Dimensionality Reduction
   - [ ] Artificial Neural Networks
   - [X] Training Deep Neural Nets
