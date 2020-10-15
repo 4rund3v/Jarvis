@@ -1,0 +1,2 @@
+sudo apt-get install libasound2-plugins libasound2-python libsox-fmt-all libsox-dev sox
+pip install sox
