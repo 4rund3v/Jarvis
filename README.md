@@ -43,3 +43,4 @@ Using NLTK to build jarvis.
   
   - [ ] Then using OpenCV watch the chess board and play chess realtime with me.
 
+Supporting recognition of speech to text
