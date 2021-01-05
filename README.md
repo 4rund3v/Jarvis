@@ -5,9 +5,9 @@ Link:
 potatocodes.in/Jarvis
 
 Pre-requistits : 
-  - [ ] NLTK
   - [x] OpenCV
   - [x] Tensorflow
+  - [ ] NLTK
   - [ ] Keras
   - [ ] redis
 
